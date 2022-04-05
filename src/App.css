@@ -1,0 +1,23 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+
+.submitBtn {
+  margin-top: 10px;
+  padding: 5px;
+  width: 100px;
+}
+input {
+  margin: 5px;
+  padding: 5px;
+}
